@@ -17,4 +17,4 @@ Utilizar todas as tags HTML abaixo:
 - < sub > < sup >
 - < font >
 - < del >
-- < abb >
+- < abbr >
